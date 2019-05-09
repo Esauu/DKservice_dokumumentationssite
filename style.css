@@ -58,7 +58,7 @@ h1 {
     border-bottom: 2px solid white;
     padding: 0.7rem;
     text-align: center;
-    font-family: ;
+    font-family: "Chango";
     text-transform: uppercase;
     background-color: #008000;
 }
@@ -69,8 +69,8 @@ h2 {
     max-width: 120rem;
     color: white;
     text-align: center;
-    font-family: ;
-    text-decoration: underline;
+    font-family: "days one";
+
 }
 
 h3 {
@@ -78,6 +78,7 @@ h3 {
     padding-bottom: 20px;
     font-weight: 100;
     color: white;
+    font-family: "days one";
 
 }
 
@@ -87,6 +88,7 @@ p {
     color: white;
     margin-left: 2rem;
     padding-bottom: 2rem;
+    font-family: "Vollkorn";
 }
 
 figure {
